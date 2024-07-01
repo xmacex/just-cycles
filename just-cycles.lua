@@ -1,4 +1,4 @@
---- menstruation
+--- just cycles
 -- track cycles of just friends
 -- inputs
 --   crow 1: pulse width

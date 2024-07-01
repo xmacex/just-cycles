@@ -1,8 +1,8 @@
-# menstruation
+# just cycles
 
 A druid script about cyclicality, life, and keeping track of cycles for jf+crow.
 
-This is also a script about the story that multiple menstrual cycles, perhaps of just friends, synchronize if they interact over time in close proximity such as in cohabitation. This is known as [*menstrual synchrony*](https://en.wikipedia.org/wiki/Menstrual_synchrony) (McClintock 1971). The scientific literature is controversial... but science is just science – you might have your own experiences about syncing your menstruation cycles. In any women communicating and coordinating among themselves is a powerful, dangerous and beautiful cultural idea, worth celebrating.
+![](just-cycles.gif)
 
 Impulse for writing this script came from the forum, when someone enquired for end-of-cycles pulses from jf. I hacked together a quick implementation, before this developed more conceptually. Thanks for that impulse. Earlier familiarity and some thoughts from Maths, which has end-of-cycle as well as end-of-rise outputs.
 
@@ -20,6 +20,6 @@ Built primarily for jf *transient* and *sustain* modes. Start by patching trigge
 
 crow polls jf at (currently at about 10 milliseconds). This gives constrains for how fast jf movements crow can detect. Stay below this pace for reliability. Exceed this pace if you feel like it.
 
-## references
+# dedication
 
-McClintock, Martha (1971). [Menstrual Synchrony and Suppression](https://doi.org/10.1038%2F229244a0). *Nature* 229, pp. 224-245.
+Dedicated to my feminist peers and mentors who insist on normalizing discussion of menstruation and alleviating "period stigma" across all cultures, including but not limited to those of trans folks. Our struggle continues (elsewhere).
